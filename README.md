@@ -1,4 +1,4 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danieldanielecki&show_icons=true&include_all_commits=true&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldanielecki&layout=compact&theme=buefy" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Alfred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alfredarcifa&show_icons=true&include_all_commits=true&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Daniel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredarcifa&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 | ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfredarcifa&theme=buefy) |
