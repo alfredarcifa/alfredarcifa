@@ -26,5 +26,3 @@
 **Contact**  
 
 [👔 LinkedIn](https://linkedin.com/in/alfredarcifa) · [🐦 Twitter](https://twitter.com/arcialfred)
-
-![Visits](https://visitor-badge.glitch.me/badge?page_id=alfredarcifa.visitor-badge&left_text=Visits)
